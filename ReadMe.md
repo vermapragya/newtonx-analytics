@@ -8,8 +8,8 @@ There are three deliverables. Read them in this order:
 
 | Step | What | Where |
 |---|---|---|
-| 1 | dashboard | [Open in pdf](tableau_view/NewtonX - Expert Analytics.pdf) |
-| 2 | Written findings & recommendations | [`Expert Growth Pod Memo.pdf`](Expert Growth Pod Memo.pdf) |
+| 1 | dashboard | [Open in pdf](./tableau_view/NewtonX%20-%20Expert%20Analytics.pdf) |
+| 2 | Written findings & recommendations | [`Expert Growth Pod Memo.pdf`](Expert%20Growth%20Pod%20Memo.pdf) |
 | 3 | SQL queries | [`sql/`](./sql_queries/) |
 
 ---
@@ -41,7 +41,7 @@ Use the **Time Period** filter (top right of each view) to switch between full-y
 
 ## 2. Memo
 
-[`Expert Growth Pod Memo.pdf`](Expert Growth Pod Memo.pdf) is a 2–3 page brief written for the Growth PM, Marketing Lead, and VP Product. It covers:
+[`Expert Growth Pod Memo.pdf`](Expert%20Growth%20Pod%20Memo.pdf) is a 2–3 page brief written for the Growth PM, Marketing Lead, and VP Product. It covers:
 
 1. **Executive summary** — the two funnel bottlenecks and the budget reallocation case, in five sentences
 2. **Funnel insights** — where experts are lost and what hypotheses explain each drop-off
